@@ -1,6 +1,9 @@
 # calculator-exercise
  Takes input using buttons and evaluates mathematical expression
 
+# Order of Operations
+  Border > / > x > + > -
+  
 # Test Cases Evaluated 
  5*(9-4) {Result : 25} <br/>
  5*-6+3.5 {Result : -26.5} <br/>
